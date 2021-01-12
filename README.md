@@ -1,1 +1,1 @@
-created random no. generator
+Random Number generator
